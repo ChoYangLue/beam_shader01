@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (proto1.vcxproj, test1.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  MainCode.cpp
+d:\documents\dxlib\hlsl_test\maincode.cpp(144): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+d:\documents\dxlib\hlsl_test\maincode.cpp(169): warning C4101: 'camera_view_mat': ローカル変数は 1 度も使われていません。
+d:\documents\dxlib\hlsl_test\maincode.cpp(165): warning C4101: 'PSHandle': ローカル変数は 1 度も使われていません。
+d:\documents\dxlib\hlsl_test\maincode.cpp(164): warning C4101: 'VSHandle': ローカル変数は 1 度も使われていません。
+  proto1.vcxproj -> D:\Documents\DXLib\hlsl_test\Debug\hlsl_test.exe
